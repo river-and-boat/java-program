@@ -1,0 +1,5 @@
+rootProject.name = 'BeachStudyJava'
+include 'jpa-demo'
+include 'ProxyDemo'
+include 'enum-demo'
+
