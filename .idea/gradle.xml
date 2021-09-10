@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/ProxyDemo" />
             <option value="$PROJECT_DIR$/enum-demo" />
             <option value="$PROJECT_DIR$/jpa-demo" />
+            <option value="$PROJECT_DIR$/optional-demo" />
             <option value="$PROJECT_DIR$/stream-api-demo" />
             <option value="$PROJECT_DIR$/time-demo" />
           </set>

@@ -4,4 +4,5 @@ include 'ProxyDemo'
 include 'enum-demo'
 include 'stream-api-demo'
 include 'time-demo'
+include 'optional-demo'
 
