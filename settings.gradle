@@ -1,6 +1,6 @@
 rootProject.name = 'BeachStudyJava'
 include 'jpa-demo'
-include 'ProxyDemo'
+include 'proxy-demo'
 include 'enum-demo'
 include 'stream-api-demo'
 include 'time-demo'

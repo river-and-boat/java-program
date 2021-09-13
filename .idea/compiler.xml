@@ -2,7 +2,6 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="BeachStudyJava.proxy-demo" target="16" />
       <module name="BeachStudyJava.ProxyDemo.main" target="16" />
       <module name="BeachStudyJava.ProxyDemo.test" target="16" />
     </bytecodeTargetLevel>
