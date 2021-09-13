@@ -5,4 +5,5 @@ include 'enum-demo'
 include 'stream-api-demo'
 include 'time-demo'
 include 'optional-demo'
+include 'observer-demo'
 
