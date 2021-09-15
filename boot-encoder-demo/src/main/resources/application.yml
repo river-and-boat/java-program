@@ -1,0 +1,18 @@
+server:
+  port: 443
+  ssl:
+    key-store: classpath:tomcat_https.keystore
+    key-store-type: JKS
+    key-alias: tomcat_https
+    key-password: 123456
+    key-store-password: 123456
+spring:
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/user?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+rsa:
+  key:
+    pubKeyPath: /Users/yuzhou.jiang/Desktop/SecurityRunner/rsa/rsa_public_key.pem
+    priKeyPath: /Users/yuzhou.jiang/Desktop/SecurityRunner/rsa/rsa_private_key_java.pem
