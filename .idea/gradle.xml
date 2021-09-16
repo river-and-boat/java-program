@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/proxy-demo" />
             <option value="$PROJECT_DIR$/servlet-container-demo" />
             <option value="$PROJECT_DIR$/stream-api-demo" />
+            <option value="$PROJECT_DIR$/task-demo" />
             <option value="$PROJECT_DIR$/time-demo" />
           </set>
         </option>
@@ -50,6 +51,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/jpa-encryption-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/my-async-demo" />
+        <option name="gradleJvm" value="15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/my-async-demo" />
           </set>
         </option>
       </GradleProjectSettings>

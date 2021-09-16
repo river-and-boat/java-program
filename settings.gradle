@@ -7,4 +7,5 @@ include 'time-demo'
 include 'optional-demo'
 include 'observer-demo'
 include 'servlet-container-demo'
+include 'task-demo'
 
